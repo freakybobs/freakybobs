@@ -1,14 +1,21 @@
 <br clear="both">
 
-<h4 align="center">Everything's perfect here, and the sun is shining 🌅</h4>
 
-###
+
+<hr>
 
 <div align="center">
   <img height="300" src="https://i.imgflip.com/9o00hj.jpg"  />
 </div>
 
-###
+<p align="center">
+  <samp>Everything's perfect here, and the sun is shining 🌅
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=freakybobs" alt="https://github.com/freakybobs" />
+</p>
+
+<hr>
 
 <div align="center">
   <a href="https://www.instagram.com/fbi_federalagent007" target="_blank">
@@ -22,7 +29,7 @@
   </a>
 </div>
 
-###
+<hr>
 
 <h2 align="left"></h2>
 
