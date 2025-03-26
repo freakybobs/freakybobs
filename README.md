@@ -1,46 +1,29 @@
-# auto-commit
+<br clear="both">
 
-🌳 Making green your Github stats, powered by [Github Actions](https://github.com/features/actions)
+<h4 align="center">Everything's perfect here, and the sun is shining 🌅</h4>
 
-[![Auto commit](https://github.com/mazipan/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/mazipan/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
+###
 
-![Mazipan's Github Stats](https://ghchart.rshah.org/mazipan)
+<div align="center">
+  <img height="300" src="https://i.imgflip.com/9o00hj.jpg"  />
+</div>
 
-## Make it your own
+###
 
-- Create your own repo with click "**Use this template**" button (⚠️ forked repo will not work)
+<div align="center">
+  <a href="https://www.instagram.com/fbi_federalagent007" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61566735449795" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="t.me/pemburulolii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+</div>
 
-Or just do in the manual way:
+###
 
-- ✅ Create your own repo
-- ✅ Copy file `.github/workflows/autocommit.yml` and `LAST_UPDATED` to your repo
-- ✅ You have to configure your repository. Go to: **Settings** -> **Action** -> **General** -> **Workflow permissions** and choose **"Read and write permissions"**
-- ✅ Change the `email` and `name` information on file [autocommit.yml, line 29 and 30](https://github.com/mazipan/auto-commit/blob/master/.github/workflows/autocommit.yml#L29)
-- ✅ Change the scheduling time on file [autocommit.yml, line 10](https://github.com/mazipan/auto-commit/blob/master/.github/workflows/autocommit.yml#L10). You can use [crontab.guru](https://crontab.guru/) if you are not familiar with the cron schedule string. For first time, you can try to run it in every hour with string `1 * * * *` .
-- ✅ Consider to support me, at least click the 🌟 button
+<h2 align="left"></h2>
 
-## Article (in Bahasa Indonesia)
-
-- https://mazipan.space/membuat-commit-otomatis-ke-github/
-
-## Repo using this auto-commit
-
-- You can add your repo here
-
-
-## Credits
-
-- [Github Actions](https://github.com/features/actions)
-- [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
-
-## Consider to Support
-
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/mazipan?utm_source=github)
-- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/mazipan?utm_source=github)
-- 👉 🌍 [Paypal](https://www.paypal.me/mazipan?utm_source=github)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
-
----
-
-© 2020 Crafted by Irfan Maulana
-
+###
