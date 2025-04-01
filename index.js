@@ -52,9 +52,9 @@ const readme = `\
 
 <h2 align="center">⏳ Year progress ⏳ </h2>
 
-${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+<p align="center">${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %</p>
 
-<p align="center">⏰ Updated on ${new Date().toGMTString()} ⏰</p>
+<p align="center">⏰ Updated on ${new Date().toUTCString()} ⏰</p>
 
 ###
 
