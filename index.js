@@ -54,7 +54,7 @@ const readme = `\
 
 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-<p align="center">⏰ Updated on ${new Date().toUTCString()} ⏰</p>
+<p align="center">⏰ Updated on ${new Date().toGMTString()} ⏰</p>
 
 ###
 
