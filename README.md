@@ -34,14 +34,13 @@
 
 <h2 align="left"></h2>
 
-###
-
 <h2 align="center">⏳ Year progress ⏳ </h2>
 
 { ▒▒▒▒▒▒▒▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.81 %
 
-⏰ Updated on Tue, 01 Apr 2025 13:14:54 GMT ⏰
----
+<p align="center">⏰ Updated on Tue, 01 Apr 2025 13:28:20 GMT ⏰</p>
+
+###
 
 
 
