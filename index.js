@@ -50,14 +50,13 @@ const readme = `\
 
 <h2 align="left"></h2>
 
-###
-
 <h2 align="center">⏳ Year progress ⏳ </h2>
 
 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toUTCString()} ⏰
----
+<p align="center">⏰ Updated on ${new Date().toUTCString()} ⏰</p>
+
+###
 
 
 
