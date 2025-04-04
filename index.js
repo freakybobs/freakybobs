@@ -15,6 +15,8 @@ function generateProgressBar() {
 
 const readme = `\
 
+[![Auto](https://github.com/freakybobs/CandyLand/actions/workflows/auto.yml/badge.svg?event=push)](https://github.com/freakybobs/CandyLand/actions/workflows/auto.yml)
+
 <br clear="both">
 
 <p align="center">
